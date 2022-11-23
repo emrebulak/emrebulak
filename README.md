@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi 👋, I'm Emre Bulak, a full-stack developer </div>  
+# <div align="center">Hi 👋, I'm Emre Bulak, a Full-Stack Developer </div>  
   
 
 - 👀 I’m interested in Software Development  
@@ -117,6 +117,3 @@
 
 <div align="center"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
