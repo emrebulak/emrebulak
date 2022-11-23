@@ -1,4 +1,4 @@
-ign="center">Merhaba 👋, ben Emre Bulak</h1>
+<h1 align="center">Merhaba 👋, ben Emre Bulak</h1>
 <h3 align="center">👀 Yazılım Geliştirme ile ilgileniyorum</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrebulak&label=Profile%20views&color=0e75b6&style=flat" alt="emrebulak" /> </p>
