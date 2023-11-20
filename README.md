@@ -1,4 +1,4 @@
-![MasterHead](https://tenor.com/tr/view/programmers-go-internet-technologists-researching-technologist-gif-3757206632821927062)
+![MasterHead](https://tenor.com/eDIc1UjbaRK.gif)
 
 # <div align="center">Hi 👋, I'm Emre Bulak, a Full-Stack Developer </div>  
 
