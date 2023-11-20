@@ -5,17 +5,15 @@
 
 # <div align="center">Hi 👋, I'm Emre Bulak, a Full-Stack Developer </div>  
   
+- 🔭 I’m currently working on **threejs**
 
-- 👀 I’m interested in Software Development  
-  
+- 🌱 I’m currently learning **everything right now😀**
 
-- 🌱 I’m currently learning everything right now😀  
-  
+- 👯 I’m looking to collaborate on **web project**
 
-- 👯 I’m looking to collaborate on web project  
-  
+- 💬 Ask me about **react, react-native, node js**
 
-- 📫 How to reach me baranemrebulak@gmail.com  
+- 📫 How to reach me **baranemrebulak@gmail.com**
   
 
 <br/>  
