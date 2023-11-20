@@ -23,5 +23,3 @@
 [![](https://visitcount.itsvg.in/api?id=emrebulak&icon=6&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![snake gif](https://github.com/emrebulak/emrebulak/blob/output/github-contribution-grid-snake.gif)
