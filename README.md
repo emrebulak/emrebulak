@@ -3,7 +3,7 @@
 # <div align="center">Hi 👋, I'm Emre Bulak, a Full-Stack Developer </div>  
 
 # 💫 About Me:
-🔭 I’m currently working on **threejs**<br>🌱 I’m currently learning **everything right now😀**<br>👯 I’m looking to collaborate on **web project**<br>💬 Ask me about **react, react-native, node js**<br>📫 How to reach me **baranemrebulak@gmail.com**
+🔭 I’m currently working on **Javascript**<br>🌱 I’m currently learning **everything right now😀**<br>👯 I’m looking to collaborate on **web project**<br>💬 Ask me about **react, react-native, node js**<br>📫 How to reach me **baranemrebulak@gmail.com**
 
 
 ## 🌐 Socials:
